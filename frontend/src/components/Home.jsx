@@ -10,7 +10,6 @@ import {
   FaRoad,
   FaTrafficLight
 } from "react-icons/fa";
-import { IoMdNotifications } from "react-icons/io";
 
 // Gradient background colors for each card
 const cardGradients = [

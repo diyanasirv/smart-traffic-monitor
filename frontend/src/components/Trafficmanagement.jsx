@@ -71,7 +71,7 @@ const SimulatedTrafficSystem = () => {
         if (!newData[junctionIndex]) return;
         
         const currentJunctionData = newData[junctionIndex];
-        let totalVehicles = 0;
+
 
         // Simulate vehicle detection for each direction
         Object.keys(currentJunctionData.directions).forEach(direction => {
@@ -97,7 +97,7 @@ const SimulatedTrafficSystem = () => {
             status: status
           };
 
-          totalVehicles += finalCount;
+
         });
       });
 

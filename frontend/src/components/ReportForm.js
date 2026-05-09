@@ -60,7 +60,7 @@ const ReportForm = () => {
 
     if (error) {
       console.error(error);
-      alert('Error reporting issue. Try again.');
+      alert(`Error reporting issue: ${error.message || error.details || JSON.stringify(error)}`);
     } else {
       alert('Reported successfully!');
       setIssueType('');

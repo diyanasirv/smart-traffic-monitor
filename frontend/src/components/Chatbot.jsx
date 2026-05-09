@@ -3,6 +3,7 @@ import { useEffect } from "react";
 
 const Chatbot = () => {
   useEffect(() => {
+    /* 
     // Load Dialogflow script
     const script = document.createElement("script");
     script.src = "https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1";
@@ -29,6 +30,7 @@ const Chatbot = () => {
       if (bot) document.body.removeChild(bot);
       if (script) document.body.removeChild(script);
     };
+    */
   }, []);
 
   return null;
