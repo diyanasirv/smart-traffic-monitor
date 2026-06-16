@@ -33,6 +33,14 @@ kotechhack-1/
     │   └── supabaseClient.js # Supabase configuration
     └── package.json        # Frontend dependencies
 ```
+picture 1
+<img width="1897" height="826" alt="s1" src="https://github.com/user-attachments/assets/56a6cf83-18a4-4b07-b3ec-4ac57a888278" />
+
+picture 2
+<img width="1906" height="833" alt="s2" src="https://github.com/user-attachments/assets/5f516e7c-ffa0-41f4-beab-eb6b2b079744" />
+
+picture 3
+<img width="1850" height="809" alt="s3" src="https://github.com/user-attachments/assets/cb8ccea6-0b7d-4bf1-a6a3-5fb0632a442a" />
 
 ## Tech Stack
 
